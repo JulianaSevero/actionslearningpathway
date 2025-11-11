@@ -1,5 +1,6 @@
-## How to run
+# DevOps Session
 
+[Building a workflow with GitHub Actions](https://resources.github.com/learn/pathways/automation/essentials/building-a-workflow-with-github-actions/) and [Building an application with GitHub Actions](https://resources.github.com/learn/pathways/automation/essentials/how-to-make-an-application-with-github-actions/)
 
 ## Essentials of GitHub Actions learning pathway demo repository
 
